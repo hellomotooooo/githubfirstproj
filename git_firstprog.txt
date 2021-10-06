@@ -7,6 +7,12 @@ class Simple{
 
      System.out.println("Hello Java");
      System.out.println("this will cause conflict");  
+
      this is conflict
+
+     
+     
+     yeah got the conflict
+
     }  
 }  
